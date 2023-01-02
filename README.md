@@ -1,11 +1,11 @@
-#Cancer Data Analysis
+# Cancer Data Analysis
 This script is designed to analyze cancer data and extract useful information from it. It reads data from a CSV file and calculates the mean and standard deviation of the different cancer characteristics.
 
-#Requirements
+# Requirements
 Python 3.6 or higher
 Pandas library (can be installed with pip install pandas)
 
-#Usage
+# Usage
 To use the script, run the following command:
 
 `python cancer_data_analysis.py data_file.csv`
