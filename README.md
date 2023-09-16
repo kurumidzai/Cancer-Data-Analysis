@@ -1,3 +1,9 @@
+<link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+<script defer src="https://pyscript.net/latest/pyscript.js"></script>
+<py-script> 
+print("je suis arabe frr c abusé apres")
+</py-script> 
+
 # Cancer Data Analysis
 This script is designed to analyze cancer data and extract useful information from it. It reads data from a CSV file and calculates the mean and standard deviation of the different cancer characteristics.
 
